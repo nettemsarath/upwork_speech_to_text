@@ -1,9 +1,11 @@
 # It works only for Nodejs version 16, install it using nvm
+
 ```
 nvm install 16
 ```
 
-# Install dependeces using 
+# Install dependeces using
+
 ```
 npm install
 ```
@@ -22,6 +24,6 @@ Code will be output to the `/dist` folder using rollup bundler
 npm run build
 ```
 
-This project includes a demonstration video.
+This is the output when you run the app
 
-[Watch the video](public/output.webm)
+![Example Image](public/output.png)
